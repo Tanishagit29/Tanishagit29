@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate Data Science student with strong foundations in Python, SQL, Machine Learning, and Data Visualization. I enjoy transforming raw data into actionable insights that drive business growth and intelligent decision-making.<br>I have worked on projects involving predictive analytics, big data processing, and AI-driven solutions. My interests include building scalable data pipelines, developing ML models, and solving real-world business problems using data.<br>Currently seeking opportunities in Data Analytics, Business Intelligence, and Machine Learning roles where I can contribute analytical thinking and technical skills to impactful projects
+I am a passionate Data Science student with strong foundations in Python, SQL, Machine Learning, and Data Visualization. I enjoy transforming raw data into actionable insights that drive business growth and intelligent decision-making.<br>I have worked on projects involving predictive analytics, big data processing, and AI-driven solutions. My interests include building scalable data pipelines, developing ML models, and solving real-world business problems using data.<br>Currently seeking opportunities in Data Analytics, Business Intelligence, and Machine Learning roles where I can contribute analytical thinking and technical skills to impactful projects.
 
 
 ## 🌐 Socials:
